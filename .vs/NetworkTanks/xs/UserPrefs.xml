@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C976D812-837A-1E42-33C0-87ED26E64CBF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Health.cs">
+    <Files>
+      <File FileName="Assets/CauseDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Health.cs" Line="58" Column="69" />
+      <File FileName="Assets/Network.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/ShotController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/ShowForward.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/TankController.cs" Line="58" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7b1cc3fb-9be5-474a-ba11-05de110fafc2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
